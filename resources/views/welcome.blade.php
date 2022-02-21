@@ -30,7 +30,7 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>One Page with Mobile Device | Canvas</title>
+	<title>KTElectronics Repairs</title>
 
 </head>
 
