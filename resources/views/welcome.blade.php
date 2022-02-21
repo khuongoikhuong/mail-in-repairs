@@ -27,7 +27,8 @@
 	<link rel="stylesheet" href="css/custom.css" type="text/css" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 
-
+	<!-- Broadly chat box -->
+	<script> window.broadlyChat = { id: "nreUDDdnqMcYacgekoEo" }; </script> <script src="https://chat.broadly.com/javascript/chat.js" async defer></script>
 	<!-- Document Title
 	============================================= -->
 	<title>KTElectronics Repairs</title>
@@ -212,6 +213,7 @@
 						<div class="clear"></div>
 
 						<div class="row topmargin-lg mx-auto" style="max-width: 1000px;">
+
 
 
 
@@ -606,6 +608,85 @@
 							                            </div>
 							                            <!--/ Plan -->
 							                        </div>
+
+
+							<div class="content-wrap">
+							<h3>WHAT WE FIX</h3>
+              <div style="display: block; width: 49%; float: left;">
+								<img class="img-responsive alignleft" src="https://www.alumrockstudio.com/private_files/KT-Electronics-graphics/featured-repairs-macbook.jpg" width="500" height="400" alt="home-office-569359_640" title="pic">
+
+							</div>
+               <div style="display: block; width: 45%; float: left; margin-left: 40px !important;">
+							<ul class="iconlist iconlist-large iconlist-color" >
+															<li><i class="icon-ok-sign"></i> Liquid Damage</li>
+															<li><i class="icon-ok-sign"></i> No Power</li>
+															<li><i class="icon-ok-sign"></i> No Video</li>
+															<li><i class="icon-ok-sign"></i> No Wi-Fi</li>
+															<li><i class="icon-ok-sign"></i> Freezing</li>
+															<li><i class="icon-ok-sign"></i> Shutting Down</li>
+															<li><i class="icon-ok-sign"></i> Overheating</li>
+															<li><i class="icon-ok-sign"></i> Etc. The list goes on. </li>
+															<li>If you have a particular problem and</li>
+															<li> are unsure if we can fix it,&nbsp;<a href="mailto:ktelectronicrepair@gmail.com">email us!</a></li>
+														</ul>
+
+																									</div>
+
+
+																			<p><strong>This repair service only covers the logic board.</strong> It includes the replacement components within the logic board. This low cost repair is for non-tampered laptops only. If your laptop has been tampered with, there will be an extra $50 diagnostics fee that is not refundable, even if repairs are not successful. (Due to the nature of laptop repaired unsuccessfully by previous technicians) </p>
+
+																			<strong>Considered Tampered:</strong>
+																			<ul>
+																			<li>Repairs were previously attempted</li>
+																			<li>Logic Board has been washed with chemicals</li>
+																			<li>Components are missing from the board</li>
+																			</ul>
+
+																			<strong>Not Considered Tampered:</strong>
+																			<ul>
+																			<li>Opened bottom panel to take a look, or dry from water damage </li>
+																			<li>Removing the Hard Drive or RAM</li>
+																			</ul>
+
+																			<p><strong>Disclaimer: </strong>We handle your data very carefully, however, if you have important or sensitive data that you cannot afford to lose, please remove your hard drive before sending in your system. You can also securely back it up before shipping your system to us. We are not responsible for lost data.</p>
+
+																			<strong>This service does not cover the following:</strong>
+																			<ul>
+																			<li>Dead battery and AC power adapter</li>
+																			<li>Defective CPU and Memory</li>
+																			<li>Defective Hard Drives and DVD Drive</li>
+																			<li>Cracked LCD/LED screens</li>
+																			<li>Defective keyboard and trackpads</li>
+																			</ul>
+
+																			<blockquote><p>Please note: If keyboards, trackpads, speakers, LCD cables and other major parts (parts that cannot be repaired) need to be replaced, we will contact you. </p></blockquote>
+
+																			<img src="/new/images/2017/kt-tech-table-banner.jpg" class="img-polaroid">
+
+																			<strong>After filling out online form: </strong>
+																			<ol>
+																			<li>Print our online form or write us a quick note that includes your name, phone number, email address, full address to ship back to, and a brief description of what is wrong with the laptop. This note will need to be included with the laptop when you ship it to us. </li>
+
+																			<li>Securely package your laptop <strong>without</strong> the AC adapter and make sure that it will be secured from dents and drops during transit. Please send only your laptop. We will not be liable for anything else that is included with system, such as chargers, or special boxes.</li>
+
+																			<li>Ship the item to us using your preferred carrier (UPS, FedEx, USPS, etc.) Make sure to insure the package as well. We will not be liable for packages that were damaged because they were poorly packaged, or for packages that were lost in transit. </li>
+
+																			<li>Upon its arrival, we will run diagnostics on your laptop and will perform the necessary repairs. If there are any problems, we will contact you before taking action. Once the repairs are completed, we will stress test your laptop using "Apple Service Diagnostics". We will test and retest your laptop to ensure that there will be no further problems. </li>
+
+																			<li>We will then package and ship the item back safely to you. Return shipping on us!<p></p></li>
+																			</ol>
+																			<h3>We look forward to serving you!</h3>
+
+
+
+																			<p class="lead">We are a team of professional technicians with years of experience in the tech industry. Located in the heart of Silicon Valley, we are on the cutting-edge of innovation and our professional repairs reflect this quality. A step above the competition, we are exceeding 14 years of experience since our first MacBook repair. Our team is equipped with cutting-edge, professional equipment to ensure that repairs are successful time after time. Trust us to have the experience, the parts, and most importantly, the knowledge to repair your MacBook Pro. We are BBB certified! We have a reputation to protect, and we are on Yelp. Check us out! Your satisfaction is our number one priority.</p>
+
+
+																			              <!--/ Description -->
+																			            </div>
+
+
+
 
 
 						</div>
