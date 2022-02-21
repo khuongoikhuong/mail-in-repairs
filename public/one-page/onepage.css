@@ -26,9 +26,16 @@
 	.header-size-custom .menu-container > .menu-item > .menu-link {
 		padding-top: 10px;
 		padding-bottom: 10px;
+		color: #000 !important;
+		font-weight: bold !important;
+	}
+
+	.header-size-custom .menu-container > .menu-item > .menu-link:hover {
+		color: #cd2122 !important;
 	}
 
 }
+
 
 @media (min-width: 992px) {
 
@@ -610,6 +617,12 @@ textarea.border-form-control {
 	font-weight: 300;
 	color: #BBB;
 }
+
+/* KT ADDED */
+
+/*
+#header { background: #333 !important; }
+*/
 
 
 
