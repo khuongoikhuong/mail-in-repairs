@@ -148,7 +148,7 @@
 						============================================= -->
 						<nav class="primary-menu">
 
-							<ul class="one-page-menu menu-container" data-easing="easeInOutExpo" data-speed="1250" data-offset="41">
+							<ul class="one-page-menu menu-container" data-easing="easeInOutExpo" data-speed="2600" data-offset="41">
 								<li class="menu-item">
 									<a href="#" class="menu-link" data-href="#wrapper"><div>Home</div></a>
 								</li>
@@ -189,13 +189,13 @@
 							<h3>Most repairs are done within 2-4 days! Same day service available by request</h3>
 							<p class="lead topmargin-sm mb-0" style="max-width:700px; line-height: 1.7;">Whether you are a student, own a business, or a small apple repair center, we offer fast and guaranteed repairs. We don't collect payment until your repair is successful. Just fill out a short form, then mail it to us with a tracking number, it's that simple.</p>
 						</div>
-						<a href="#" class="button button-dark button-circle button-large fw-light ms-0" data-scrollto="#section-we" data-easing="easeInOutExpo" data-speed="1250" data-offset="40"><i class="icon-user"></i>Who We Are</a>
-<a href="#" class="button button-dark button-circle button-large fw-light ms-0" data-scrollto="#section-process" data-easing="easeInOutExpo" data-speed="1250" data-offset="40"><i class="icon-envelope"></i>Mail-in How-To</a>
-						<a href="#" class="button button-dark button-circle button-large fw-light" data-scrollto="#section-pricing" data-easing="easeInOutExpo" data-speed="1250" data-offset="40"><i class="icon-dollar"></i>Pricing</a>
+						<a href="#" class="button button-dark button-circle button-large fw-light ms-0" data-scrollto="#section-we" data-easing="easeInOutExpo" data-speed="2600" data-offset="40"><i class="icon-user"></i>Who We Are</a>
+<a href="#" class="button button-dark button-circle button-large fw-light ms-0" data-scrollto="#section-process" data-easing="easeInOutExpo" data-speed="2600" data-offset="40"><i class="icon-envelope"></i>Mail-in How-To</a>
+						<a href="#" class="button button-dark button-circle button-large fw-light" data-scrollto="#section-pricing" data-easing="easeInOutExpo" data-speed="2600" data-offset="40"><i class="icon-dollar"></i>Pricing</a>
 					</div>
 				</div>
 
-				<a href="#" data-scrollto="#section-pricing" data-easing="easeInOutExpo" data-speed="1250" data-offset="40" class="one-page-arrow"><i class="icon-angle-down infinite animated fadeInDown"></i></a>
+				<a href="#" data-scrollto="#section-pricing" data-easing="easeInOutExpo" data-speed="2600" data-offset="40" class="one-page-arrow"><i class="icon-angle-down infinite animated fadeInDown"></i></a>
 
 			</div>
 		</section><!-- #slider end -->
@@ -661,9 +661,9 @@
 
 																			<blockquote><p>Please note: If keyboards, trackpads, speakers, LCD cables and other major parts (parts that cannot be repaired) need to be replaced, we will contact you. </p></blockquote>
 
-																			<img src="/new/images/2017/kt-tech-table-banner.jpg" class="img-polaroid">
+																			<img src="/images/mailin/kt-tech-table-banner.jpg" class="img-polaroid">
 
-																			<strong>After filling out online form: </strong>
+																			<br/><strong>After filling out online form: </strong>
 																			<ol>
 																			<li>Print our online form or write us a quick note that includes your name, phone number, email address, full address to ship back to, and a brief description of what is wrong with the laptop. This note will need to be included with the laptop when you ship it to us. </li>
 
@@ -727,7 +727,7 @@
 					                <!-- Title -->
 					                <h4 class="stp_title">
 					                  DOWNLOAD THE FORM
-<a href="#" data-scrollto="#section-order" data-easing="easeInOutExpo" data-speed="1250" data-offset="40" data-ol-has-click-handler="">HERE</a>
+<a href="#" data-scrollto="#section-order" data-easing="easeInOutExpo" data-speed="2600" data-offset="40" data-ol-has-click-handler="">HERE</a>
 
 					                </h4>
 					                <!--/ Title -->
@@ -1467,12 +1467,12 @@
 								<h4>Site Links</h4>
 
 								<ul class="list-unstyled footer-site-links mb-0">
-									<li><a href="#" data-scrollto="#wrapper" data-easing="easeInOutExpo" data-speed="1250" data-offset="70">Top</a></li>
-									<li><a href="#" data-scrollto="#section-pricing" data-easing="easeInOutExpo" data-speed="1250" data-offset="70">About</a></li>
-									<li><a href="#" data-scrollto="#section-process" data-easing="easeInOutExpo" data-speed="1250" data-offset="70">Works</a></li>
-									<li><a href="#" data-scrollto="#section-order" data-easing="easeInOutExpo" data-speed="1250" data-offset="70">Services</a></li>
-									<li><a href="#" data-scrollto="#section-we" data-easing="easeInOutExpo" data-speed="1250" data-offset="70">Blog</a></li>
-									<li><a href="#" data-scrollto="#section-contact" data-easing="easeInOutExpo" data-speed="1250" data-offset="70">Contact</a></li>
+									<li><a href="#" data-scrollto="#wrapper" data-easing="easeInOutExpo" data-speed="2600" data-offset="70">Top</a></li>
+									<li><a href="#" data-scrollto="#section-pricing" data-easing="easeInOutExpo" data-speed="2600" data-offset="70">About</a></li>
+									<li><a href="#" data-scrollto="#section-process" data-easing="easeInOutExpo" data-speed="2600" data-offset="70">Works</a></li>
+									<li><a href="#" data-scrollto="#section-order" data-easing="easeInOutExpo" data-speed="2600" data-offset="70">Services</a></li>
+									<li><a href="#" data-scrollto="#section-we" data-easing="easeInOutExpo" data-speed="2600" data-offset="70">Blog</a></li>
+									<li><a href="#" data-scrollto="#section-contact" data-easing="easeInOutExpo" data-speed="2600" data-offset="70">Contact</a></li>
 								</ul>
 							</div>
 
