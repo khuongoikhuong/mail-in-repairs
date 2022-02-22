@@ -937,6 +937,7 @@
 																			</div>
 																		</div>
 																		<div class="col-12 d-flex justify-content-end align-items-center">
+																			<a href="/shipping-label.php" class="btn btn-success ms-2" target="_blank">Print Order Form</a>
 																			<button type="submit" name="fitness-form-submit" class="btn btn-success ms-2">Submit Order</button>
 																		</div>
 
@@ -984,7 +985,8 @@
 
 We support our local community by giving away computers to people who needs help. Our staff is knowledgable, patience, and helpful.</p>
 
-													<a href="#" class="button button-border button-large button-rounded topmargin-sm ms-0">More Details</a>
+													<a href="#" class="button button-dark button-circle button-large fw-light ms-0" data-scrollto="#section-contact" data-easing="easeInOutExpo" data-speed="2600" data-offset="40"><i class="icon-user"></i>OUR STORE INFO</a>
+
 												</div>
 
 												<div class="col-md-6 text-center">
@@ -1014,7 +1016,7 @@ We support our local community by giving away computers to people who needs help
 
 											<div class="col-sm-6 col-lg-3">
 												<div class="fancy-title title-border">
-													<h4>We also Fix</h4>
+													<h4>Other services</h4>
 												</div>
 
 												<p>We also fix iphone, ipad, & any game console</p>
@@ -1028,14 +1030,14 @@ We support our local community by giving away computers to people who needs help
 												</div>
 
 												<div class="masonry-thumbs grid-container grid-4 clearfix" data-lightbox="gallery" style="width: 100.3%;">
-													<a class="grid-item" href="images/restaurant/3.jpg" data-lightbox="gallery-item"><img src="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A9000.jpg" alt="Gallery Thumb 1" data-animate="zoomIn"></a>
-													<a class="grid-item" href="images/restaurant/5.jpg" data-lightbox="gallery-item"><img src="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A9010.jpg" alt="Gallery Thumb 2" data-animate="zoomIn" data-delay="100"></a>
-													<a class="grid-item" href="images/restaurant/6.jpg" data-lightbox="gallery-item"><img src="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A9031.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
-													<a class="grid-item" href="images/restaurant/7.jpg" data-lightbox="gallery-item"><img src="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A8995.jpg" alt="Gallery Thumb 4" data-animate="zoomIn" data-delay="300"></a>
-													<a class="grid-item" href="images/restaurant/8.jpg" data-lightbox="gallery-item"><img src="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A8945.jpg" alt="Gallery Thumb 5" data-animate="zoomIn" data-delay="400"></a>
-													<a class="grid-item" href="images/restaurant/10.jpg" data-lightbox="gallery-item"><img src="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A8926.jpg" alt="Gallery Thumb 6" data-animate="zoomIn" data-delay="500"></a>
-													<a class="grid-item" href="images/restaurant/11.jpg" data-lightbox="gallery-item"><img src="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A8905.jpg" alt="Gallery Thumb 7" data-animate="zoomIn" data-delay="600"></a>
-													<a class="grid-item" href="images/restaurant/12.jpg" data-lightbox="gallery-item"><img src="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A8893.jpg" alt="Gallery Thumb 8" data-animate="zoomIn" data-delay="700"></a>
+													<a class="grid-item" href="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A9000.jpg" data-lightbox="gallery-item"><img src="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A9000.jpg" alt="Gallery Thumb 1" data-animate="zoomIn"></a>
+													<a class="grid-item" href="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A9010.jpg" data-lightbox="gallery-item"><img src="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A9010.jpg" alt="Gallery Thumb 2" data-animate="zoomIn" data-delay="100"></a>
+													<a class="grid-item" href="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A9031.jpg" data-lightbox="gallery-item"><img src="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A9031.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+													<a class="grid-item" href="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A8995.jpg" data-lightbox="gallery-item"><img src="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A8995.jpg" alt="Gallery Thumb 4" data-animate="zoomIn" data-delay="300"></a>
+													<a class="grid-item" href="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A8945.jpg" data-lightbox="gallery-item"><img src="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A8945.jpg" alt="Gallery Thumb 5" data-animate="zoomIn" data-delay="400"></a>
+													<a class="grid-item" href="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A8926.jpg" data-lightbox="gallery-item"><img src="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A8926.jpg" alt="Gallery Thumb 6" data-animate="zoomIn" data-delay="500"></a>
+													<a class="grid-item" href="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A8905.jpg" data-lightbox="gallery-item"><img src="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A8905.jpg" alt="Gallery Thumb 7" data-animate="zoomIn" data-delay="600"></a>
+													<a class="grid-item" href="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A8893.jpg" data-lightbox="gallery-item"><img src="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A8893.jpg" alt="Gallery Thumb 8" data-animate="zoomIn" data-delay="700"></a>
 												</div>
 											</div>
 										</div>
@@ -1070,6 +1072,10 @@ We support our local community by giving away computers to people who needs help
 									<abbr title="Phone Number"><strong>Phone:</strong></abbr> 408-258-8800<br>
 									<abbr title="Fax"><strong>Text:</strong></abbr> 408-837-1640<br>
 									<abbr title="Email Address"><strong>Email:</strong></abbr> ktelectronicrepair@gmail.com
+									<br/>
+									<br/>
+									<br/>
+									<a href="#" class="button button-dark button-circle button-large fw-light ms-0" data-scrollto="#section-we" data-easing="easeInOutExpo" data-speed="2600" data-offset="40"><i class="icon-user"></i>ABOUT US</a>
 								</div>
 							</div>
 						</div>

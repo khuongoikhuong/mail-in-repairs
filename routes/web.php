@@ -22,3 +22,8 @@ Route::get('/', function () {
 Route::get('/',[TodoListController::class, 'index']);
 
 Route::post('/saveItemRoute',[TodoListController::class, 'saveItem'])->name('saveItem');
+
+
+Route::get('/shipping-label.php', function () {
+    return view('shipping-label');
+});
