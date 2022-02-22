@@ -632,38 +632,40 @@
 
 																									</div>
 
+<div class="portfolio-desc col-lg-12" style="text-align: left;">
 
-																			<p><strong>This repair service only covers the logic board.</strong> It includes the replacement components within the logic board. This low cost repair is for non-tampered laptops only. If your laptop has been tampered with, there will be an extra $50 diagnostics fee that is not refundable, even if repairs are not successful. (Due to the nature of laptop repaired unsuccessfully by previous technicians) </p>
+																			<p><h3>This repair service only covers the logic board.</h3> It includes the replacement components within the logic board. This low cost repair is for non-tampered laptops only. If your laptop has been tampered with, there will be an extra $50 diagnostics fee that is not refundable, even if repairs are not successful. (Due to the nature of laptop repaired unsuccessfully by previous technicians) </p>
 
-																			<strong>Considered Tampered:</strong>
-																			<ul>
-																			<li>Repairs were previously attempted</li>
-																			<li>Logic Board has been washed with chemicals</li>
-																			<li>Components are missing from the board</li>
+																			<h3>Considered Tampered:</h3>
+																			<ul class="iconlist d-none d-md-block">
+																			<li><i class="icon-line-check"></i>Repairs were previously attempted</li>
+																			<li><i class="icon-line-check"></i>Logic Board has been washed with chemicals</li>
+																			<li><i class="icon-line-check"></i>Components are missing from the board</li>
 																			</ul>
+																		</p>
 
-																			<strong>Not Considered Tampered:</strong>
-																			<ul>
-																			<li>Opened bottom panel to take a look, or dry from water damage </li>
-																			<li>Removing the Hard Drive or RAM</li>
+																			<h3>Not Considered Tampered:</h3>
+																			<ul class="iconlist d-none d-md-block">
+																			<li><i class="icon-line-check"></i>Opened bottom panel to take a look, or dry from water damage </li>
+																			<li><i class="icon-line-check"></i>Removing the Hard Drive or RAM</li>
 																			</ul>
 
 																			<p><strong>Disclaimer: </strong>We handle your data very carefully, however, if you have important or sensitive data that you cannot afford to lose, please remove your hard drive before sending in your system. You can also securely back it up before shipping your system to us. We are not responsible for lost data.</p>
 
-																			<strong>This service does not cover the following:</strong>
-																			<ul>
-																			<li>Dead battery and AC power adapter</li>
-																			<li>Defective CPU and Memory</li>
-																			<li>Defective Hard Drives and DVD Drive</li>
-																			<li>Cracked LCD/LED screens</li>
-																			<li>Defective keyboard and trackpads</li>
+																			<h3>This service does not cover the following:</h3>
+																			<ul class="iconlist d-none d-md-block">
+																			<li><i class="icon-line-check"></i>Dead battery and AC power adapter</li>
+																			<li><i class="icon-line-check"></i>Defective CPU and Memory</li>
+																			<li><i class="icon-line-check"></i>Defective Hard Drives and DVD Drive</li>
+																			<li><i class="icon-line-check"></i>Cracked LCD/LED screens</li>
+																			<li><i class="icon-line-check"></i>Defective keyboard and trackpads</li>
 																			</ul>
 
 																			<blockquote><p>Please note: If keyboards, trackpads, speakers, LCD cables and other major parts (parts that cannot be repaired) need to be replaced, we will contact you. </p></blockquote>
 
 																			<img src="/images/mailin/kt-tech-table-banner.jpg" class="img-polaroid">
 
-																			<br/><strong>After filling out online form: </strong>
+																			<br/><h3>After filling out online form: </h3>
 																			<ol>
 																			<li>Print our online form or write us a quick note that includes your name, phone number, email address, full address to ship back to, and a brief description of what is wrong with the laptop. This note will need to be included with the laptop when you ship it to us. </li>
 
@@ -680,7 +682,7 @@
 
 
 																			<p class="lead">We are a team of professional technicians with years of experience in the tech industry. Located in the heart of Silicon Valley, we are on the cutting-edge of innovation and our professional repairs reflect this quality. A step above the competition, we are exceeding 14 years of experience since our first MacBook repair. Our team is equipped with cutting-edge, professional equipment to ensure that repairs are successful time after time. Trust us to have the experience, the parts, and most importantly, the knowledge to repair your MacBook Pro. We are BBB certified! We have a reputation to protect, and we are on Yelp. Check us out! Your satisfaction is our number one priority.</p>
-
+</div>
 
 																			              <!--/ Description -->
 																			            </div>
