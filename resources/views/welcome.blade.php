@@ -726,7 +726,7 @@
 					              <div class="process_box4 download-form" style="cursor: pointer;" data-ol-has-click-handler="">
 					                <!-- Title -->
 					                <h4 class="stp_title">
-					                  DOWNLOAD THE FORM
+					                  SUBMIT THE FORM
                           <a href="#" data-scrollto="#section-order" data-easing="easeInOutExpo" data-speed="2600" data-offset="40" data-ol-has-click-handler="">HERE</a>
 
 					                </h4>
@@ -966,411 +966,80 @@
 
 				<div id="section-we" class="page-section">
 
-					<h2 class="text-center text-uppercase fw-light ls3 font-body">We had a great day making IT work for you!</h2>
+					<div class="section bg-transparent mt-0 border-0 bottommargin-sm">
+										<div class="container clearfix">
 
-					<section class="hg_section pt-100 pb-50 colored-section" data-color="darkgray">
-					  <!-- Background with parallax effect -->
-					  <div class="kl-bg-source kl-bgSource-imageParallax js-KyHtmlParallax is-fixed">
-					    <!-- Background image -->
-					    <div class="kl-bg-source__bgimage" style="background-image: url(images/parallax_bg/parallax4.png);">
-					    </div>
-					    <!--/ Background image -->
+											<div class="row align-items-center col-mb-50">
+												<div class="col-md-6">
+													<div class="heading-block" style="padding-top: 40px;">
 
-					    <!-- Gradient overlay -->
-					    <div class="kl-bg-source__overlay" style="">
-					    </div>
-					    <!--/ Gradient overlay -->
-					  </div>
-					  <!--/ Background with parallax effect -->
+														<h2>KT Electronics</h2>
+														<span>Home to San Jose trusted iPhone & MacBook Repairs</span>
 
-					  <div class="container">
-					    <div class="row">
-					      <div class="col-sm-12 col-md-12">
+													</div>
 
-					        <!-- Image boxes carousel element full width style -->
-					        <div class="image-boxes__carousel-wrapper full-width">
-					          <div class="image-boxes__carousel js-slick slick-initialized slick-slider slick-dotted" data-slick="{
-					            &quot;dots&quot;: true,
-					            &quot;infinite&quot;: true,
-					            &quot;swipeToSlide&quot;: true,
-					            &quot;slidesToShow&quot;: 3,
-					            &quot;slidesToScroll&quot;: 1,
-					            &quot;autoplay&quot;: true,
-					            &quot;autoplaySpeed&quot;: 3000,
-					            &quot;speed&quot;: 500,
-					            &quot;cssEase&quot;: &quot;ease-in-out&quot;,
-					            &quot;arrows&quot;: false,
-					            &quot;responsive&quot;: [
-					              {
-					                &quot;breakpoint&quot;: 1199,
-					                &quot;settings&quot;: {
-					                  &quot;slidesToShow&quot;: 3
-					                }
-					              },
-					              {
-					                &quot;breakpoint&quot;: 767,
-					                &quot;settings&quot;: {
-					                  &quot;slidesToShow&quot;: 2
-					                }
-					              },
-					              {
-					                &quot;breakpoint&quot;: 480,
-					                &quot;settings&quot;: {
-					                  &quot;slidesToShow&quot;: 1
-					                }
-					              }
-					            ]
-					          }">
-					            <!-- Slide #1 -->
+													<p>We are a local community business that service the bay area and nationwide. Our former employees moved on to work for Tesla, Facebook, Apple, something we are very proud of. We serve as a significant stepping stone for college students who aspire to become the very best by learning from the very best.
 
-					            <!--/ Slide #1 -->
+We support our local community by giving away computers to people who needs help. Our staff is knowledgable, patience, and helpful.</p>
 
-					            <!-- Slide #2 -->
+													<a href="#" class="button button-border button-large button-rounded topmargin-sm ms-0">More Details</a>
+												</div>
 
-					            <!--/ Slide #2 -->
+												<div class="col-md-6 text-center">
+													<img src="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A9013.jpg" alt="Image" data-animate="fadeInRight">
+												</div>
+											</div>
 
-					            <!-- Slide #3 -->
+										</div>
+									</div>
 
-					            <!--/ Slide #3 -->
+									<div class="container clearfix">
 
-					            <!-- Slide #4 -->
+										<div class="row col-mb-50">
+											<div class="col-sm-6 col-lg-3">
+												<div class="fancy-title title-border">
+													<h4>Opening Hours</h4>
+												</div>
 
-					            <!--/ Slide #4 -->
+												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam aspernatur facilis cumque amet suscipit odio.</p>
 
-					            <!-- Slide #5 -->
+												<ul class="iconlist mb-0">
+													<li><i class="icon-time color"></i> <strong>Mondays-Fridays:</strong> 10AM to 7PM</li>
+													<li><i class="icon-time color"></i> <strong>Saturdays:</strong> 11AM to 3PM</li>
+													<li><i class="icon-time text-danger"></i> <strong>Sundays:</strong> Closed</li>
+												</ul>
+											</div>
 
-					            <!--/ Slide #5 -->
+											<div class="col-sm-6 col-lg-3">
+												<div class="fancy-title title-border">
+													<h4>We also Fix</h4>
+												</div>
 
-					            <!-- Slide #6 -->
+												<p>We also fix iphone, ipad, & any game console</p>
 
-					            <!--/ Slide #6 -->
+												<a href="#" class="button button-rounded button-dark ms-0"><i class="icon-file-alt"></i> View all</a>
+											</div>
 
-					            <!-- Slide #7 -->
+											<div class="col-lg-6">
+												<div class="fancy-title title-border">
+													<h4>Our Shop</h4>
+												</div>
 
-					            <!--/ Slide #7 -->
+												<div class="masonry-thumbs grid-container grid-4 clearfix" data-lightbox="gallery" style="width: 100.3%;">
+													<a class="grid-item" href="images/restaurant/3.jpg" data-lightbox="gallery-item"><img src="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A9000.jpg" alt="Gallery Thumb 1" data-animate="zoomIn"></a>
+													<a class="grid-item" href="images/restaurant/5.jpg" data-lightbox="gallery-item"><img src="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A9010.jpg" alt="Gallery Thumb 2" data-animate="zoomIn" data-delay="100"></a>
+													<a class="grid-item" href="images/restaurant/6.jpg" data-lightbox="gallery-item"><img src="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A9031.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+													<a class="grid-item" href="images/restaurant/7.jpg" data-lightbox="gallery-item"><img src="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A8995.jpg" alt="Gallery Thumb 4" data-animate="zoomIn" data-delay="300"></a>
+													<a class="grid-item" href="images/restaurant/8.jpg" data-lightbox="gallery-item"><img src="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A8945.jpg" alt="Gallery Thumb 5" data-animate="zoomIn" data-delay="400"></a>
+													<a class="grid-item" href="images/restaurant/10.jpg" data-lightbox="gallery-item"><img src="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A8926.jpg" alt="Gallery Thumb 6" data-animate="zoomIn" data-delay="500"></a>
+													<a class="grid-item" href="images/restaurant/11.jpg" data-lightbox="gallery-item"><img src="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A8905.jpg" alt="Gallery Thumb 7" data-animate="zoomIn" data-delay="600"></a>
+													<a class="grid-item" href="images/restaurant/12.jpg" data-lightbox="gallery-item"><img src="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A8893.jpg" alt="Gallery Thumb 8" data-animate="zoomIn" data-delay="700"></a>
+												</div>
+											</div>
+										</div>
 
-					            <!-- Slide #7 -->
+									</div>
 
-					            <!--/ Slide #7 -->
-
-
-					          <div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 7030px; transform: translate3d(-3330px, 0px, 0px);"><div class="inner-slide slick-slide slick-cloned" style="width: 346px;" tabindex="-1" role="tabpanel" aria-describedby="slick-slide-control05" data-slick-index="-3" aria-hidden="true">
-					              <!-- Image with anchor link -->
-					              <div class="imgprev">
-					                <a href="#" tabindex="-1">
-					                  <img src="http://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A9189.jpg" alt="" title="" class="img-fluid">
-					                </a>
-					              </div>
-
-					              <!-- Details -->
-					              <div class="details">
-					                <!-- Title -->
-					                <h4 class="white" data-role="title">
-					                  STEPHANIE TRAN
-					                </h4> IT &amp; Customer Service
-					              </div>
-					              <!--/ .details -->
-					            </div><div class="inner-slide slick-slide slick-cloned" style="width: 346px;" tabindex="-1" role="tabpanel" aria-describedby="slick-slide-control06" data-slick-index="-2" aria-hidden="true">
-					              <!-- Image with anchor link -->
-					              <div class="imgprev">
-					                <a href="#" tabindex="-1">
-					                  <img src="http://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A9253.jpg" alt="" title="" class="img-fluid">
-					                </a>
-					              </div>
-
-					              <!-- Details -->
-					              <div class="details">
-					                <!-- Title -->
-					                <h4 class="white" data-role="title">
-					                  KHANH TRUONG
-					                </h4> Hardware Technician
-					              </div>
-					              <!--/ .details -->
-					            </div><div class="inner-slide slick-slide slick-cloned" style="width: 346px;" tabindex="-1" role="tabpanel" aria-describedby="slick-slide-control07" data-slick-index="-1" aria-hidden="true">
-					              <!-- Image with anchor link -->
-					              <div class="imgprev">
-					                <a href="#" tabindex="-1">
-					                  <img src="http://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A9267.jpg" alt="" title="" class="img-fluid">
-					                </a>
-					              </div>
-
-					              <!-- Details -->
-					              <div class="details">
-					                <!-- Title -->
-					                <h4 class="white" data-role="title">
-					                  MEO MEO
-					                </h4> Stress Therapist
-					              </div>
-					              <!--/ .details -->
-					            </div><div class="inner-slide slick-slide" style="width: 346px;" tabindex="-1" role="tabpanel" id="slick-slide00" aria-describedby="slick-slide-control00" data-slick-index="0" aria-hidden="true">
-					              <!-- Image -->
-					              <div class="imgprev">
-					                <!-- Image with anchor link -->
-					                <a href="#" tabindex="-1">
-					                  <img src="http://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A9099.jpg" alt="" title="" class="img-fluid">
-					                </a>
-					              </div>
-
-					              <!-- Details -->
-					              <div class="details">
-					                <!-- Title -->
-					                <h4 class="white" data-role="title">
-					                  RANDY TU
-					                </h4> Software Dept. Lead
-					              </div>
-					              <!--/ .details -->
-					            </div><div class="inner-slide slick-slide" style="width: 346px;" tabindex="-1" role="tabpanel" id="slick-slide01" aria-describedby="slick-slide-control01" data-slick-index="1" aria-hidden="true">
-					              <!-- Image with anchor link -->
-					              <div class="imgprev">
-					                <a href="#" tabindex="-1">
-					                  <img src="http://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A9063.jpg" alt="" title="" class="img-fluid">
-					                </a>
-					              </div>
-
-					              <!-- Details -->
-					              <div class="details">
-					                <!-- Title -->
-					                <h4 class="white" data-role="title">
-					                  JIMMY BUI
-					                </h4> Customer Relation
-					              </div>
-					              <!--/ .details -->
-					            </div><div class="inner-slide slick-slide" style="width: 346px;" tabindex="-1" role="tabpanel" id="slick-slide02" aria-describedby="slick-slide-control02" data-slick-index="2" aria-hidden="true">
-					              <!-- Image with anchor link -->
-					              <div class="imgprev">
-					                <a href="#" tabindex="-1">
-					                  <img src="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A9118.jpg" alt="" title="" class="img-fluid">
-					                </a>
-					              </div>
-
-					              <!-- Details -->
-					              <div class="details">
-					                <!-- Title -->
-					                <h4 class="white" data-role="title">
-					                  STEVEN LU
-					                </h4> ONLINE CUSTOMER SERVICE
-					              </div>
-					              <!--/ .details -->
-					            </div><div class="inner-slide slick-slide" style="width: 346px;" tabindex="-1" role="tabpanel" id="slick-slide03" aria-describedby="slick-slide-control03" data-slick-index="3" aria-hidden="true">
-					              <!-- Image with anchor link -->
-					              <div class="imgprev">
-					                <a href="#" tabindex="-1">
-					                  <img src="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A9123.jpg" alt="" title="" class="img-fluid">
-					                </a>
-					              </div>
-
-					              <!-- Details -->
-					              <div class="details">
-					                <!-- Title -->
-					                <h4 class="white" data-role="title">
-					                  SEAN LUONG
-					                </h4> Frontdesk Customer Service
-					              </div>
-					              <!--/ .details -->
-					            </div><div class="inner-slide slick-slide" style="width: 346px;" tabindex="-1" role="tabpanel" id="slick-slide04" aria-describedby="slick-slide-control04" data-slick-index="4" aria-hidden="true">
-					              <!-- Image with anchor link -->
-					              <div class="imgprev">
-					                <a href="#" tabindex="-1">
-					                  <img src="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A9158.jpg" alt="" title="" class="img-fluid">
-					                </a>
-					              </div>
-
-					              <!-- Details -->
-					              <div class="details">
-					                <!-- Title -->
-					                <h4 class="white" data-role="title">
-					                  LEE TURNER
-					                </h4> Apple Service Technician
-					              </div>
-					              <!--/ .details -->
-					            </div><div class="inner-slide slick-slide" style="width: 346px;" tabindex="-1" role="tabpanel" id="slick-slide05" aria-describedby="slick-slide-control05" data-slick-index="5" aria-hidden="true">
-					              <!-- Image with anchor link -->
-					              <div class="imgprev">
-					                <a href="#" tabindex="-1">
-					                  <img src="http://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A9189.jpg" alt="" title="" class="img-fluid">
-					                </a>
-					              </div>
-
-					              <!-- Details -->
-					              <div class="details">
-					                <!-- Title -->
-					                <h4 class="white" data-role="title">
-					                  STEPHANIE TRAN
-					                </h4> IT &amp; Customer Service
-					              </div>
-					              <!--/ .details -->
-					            </div><div class="inner-slide slick-slide slick-current slick-active slick-item--activated" style="width: 346px;" tabindex="0" role="tabpanel" id="slick-slide06" aria-describedby="slick-slide-control06" data-slick-index="6" aria-hidden="false">
-					              <!-- Image with anchor link -->
-					              <div class="imgprev">
-					                <a href="#" tabindex="0">
-					                  <img src="http://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A9253.jpg" alt="" title="" class="img-fluid">
-					                </a>
-					              </div>
-
-					              <!-- Details -->
-					              <div class="details">
-					                <!-- Title -->
-					                <h4 class="white" data-role="title">
-					                  KHANH TRUONG
-					                </h4> Hardware Technician
-					              </div>
-					              <!--/ .details -->
-					            </div><div class="inner-slide slick-slide slick-active" style="width: 346px;" tabindex="0" role="tabpanel" id="slick-slide07" aria-describedby="slick-slide-control07" data-slick-index="7" aria-hidden="false">
-					              <!-- Image with anchor link -->
-					              <div class="imgprev">
-					                <a href="#" tabindex="0">
-					                  <img src="http://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A9267.jpg" alt="" title="" class="img-fluid">
-					                </a>
-					              </div>
-
-					              <!-- Details -->
-					              <div class="details">
-					                <!-- Title -->
-					                <h4 class="white" data-role="title">
-					                  MEO MEO
-					                </h4> Stress Therapist
-					              </div>
-					              <!--/ .details -->
-					            </div><div class="inner-slide slick-slide slick-cloned slick-active" style="width: 346px;" tabindex="-1" role="tabpanel" aria-describedby="slick-slide-control00" data-slick-index="8" aria-hidden="false">
-					              <!-- Image -->
-					              <div class="imgprev">
-					                <!-- Image with anchor link -->
-					                <a href="#" tabindex="0">
-					                  <img src="http://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A9099.jpg" alt="" title="" class="img-fluid">
-					                </a>
-					              </div>
-
-					              <!-- Details -->
-					              <div class="details">
-					                <!-- Title -->
-					                <h4 class="white" data-role="title">
-					                  RANDY TU
-					                </h4> Software Dept. Lead
-					              </div>
-					              <!--/ .details -->
-					            </div><div class="inner-slide slick-slide slick-cloned" style="width: 346px;" tabindex="-1" role="tabpanel" aria-describedby="slick-slide-control01" data-slick-index="9" aria-hidden="true">
-					              <!-- Image with anchor link -->
-					              <div class="imgprev">
-					                <a href="#" tabindex="-1">
-					                  <img src="http://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A9063.jpg" alt="" title="" class="img-fluid">
-					                </a>
-					              </div>
-
-					              <!-- Details -->
-					              <div class="details">
-					                <!-- Title -->
-					                <h4 class="white" data-role="title">
-					                  JIMMY BUI
-					                </h4> Customer Relation
-					              </div>
-					              <!--/ .details -->
-					            </div><div class="inner-slide slick-slide slick-cloned" style="width: 346px;" tabindex="-1" role="tabpanel" aria-describedby="slick-slide-control02" data-slick-index="10" aria-hidden="true">
-					              <!-- Image with anchor link -->
-					              <div class="imgprev">
-					                <a href="#" tabindex="-1">
-					                  <img src="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A9118.jpg" alt="" title="" class="img-fluid">
-					                </a>
-					              </div>
-
-					              <!-- Details -->
-					              <div class="details">
-					                <!-- Title -->
-					                <h4 class="white" data-role="title">
-					                  STEVEN LU
-					                </h4> ONLINE CUSTOMER SERVICE
-					              </div>
-					              <!--/ .details -->
-					            </div><div class="inner-slide slick-slide slick-cloned" style="width: 346px;" tabindex="-1" role="tabpanel" aria-describedby="slick-slide-control03" data-slick-index="11" aria-hidden="true">
-					              <!-- Image with anchor link -->
-					              <div class="imgprev">
-					                <a href="#" tabindex="-1">
-					                  <img src="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A9123.jpg" alt="" title="" class="img-fluid">
-					                </a>
-					              </div>
-
-					              <!-- Details -->
-					              <div class="details">
-					                <!-- Title -->
-					                <h4 class="white" data-role="title">
-					                  SEAN LUONG
-					                </h4> Frontdesk Customer Service
-					              </div>
-					              <!--/ .details -->
-					            </div><div class="inner-slide slick-slide slick-cloned" style="width: 346px;" tabindex="-1" role="tabpanel" aria-describedby="slick-slide-control04" data-slick-index="12" aria-hidden="true">
-					              <!-- Image with anchor link -->
-					              <div class="imgprev">
-					                <a href="#" tabindex="-1">
-					                  <img src="https://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A9158.jpg" alt="" title="" class="img-fluid">
-					                </a>
-					              </div>
-
-					              <!-- Details -->
-					              <div class="details">
-					                <!-- Title -->
-					                <h4 class="white" data-role="title">
-					                  LEE TURNER
-					                </h4> Apple Service Technician
-					              </div>
-					              <!--/ .details -->
-					            </div><div class="inner-slide slick-slide slick-cloned" style="width: 346px;" tabindex="-1" role="tabpanel" aria-describedby="slick-slide-control05" data-slick-index="13" aria-hidden="true">
-					              <!-- Image with anchor link -->
-					              <div class="imgprev">
-					                <a href="#" tabindex="-1">
-					                  <img src="http://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A9189.jpg" alt="" title="" class="img-fluid">
-					                </a>
-					              </div>
-
-					              <!-- Details -->
-					              <div class="details">
-					                <!-- Title -->
-					                <h4 class="white" data-role="title">
-					                  STEPHANIE TRAN
-					                </h4> IT &amp; Customer Service
-					              </div>
-					              <!--/ .details -->
-					            </div><div class="inner-slide slick-slide slick-cloned" style="width: 346px;" tabindex="-1" role="tabpanel" aria-describedby="slick-slide-control06" data-slick-index="14" aria-hidden="true">
-					              <!-- Image with anchor link -->
-					              <div class="imgprev">
-					                <a href="#" tabindex="-1">
-					                  <img src="http://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A9253.jpg" alt="" title="" class="img-fluid">
-					                </a>
-					              </div>
-
-					              <!-- Details -->
-					              <div class="details">
-					                <!-- Title -->
-					                <h4 class="white" data-role="title">
-					                  KHANH TRUONG
-					                </h4> Hardware Technician
-					              </div>
-					              <!--/ .details -->
-					            </div><div class="inner-slide slick-slide slick-cloned" style="width: 346px;" tabindex="-1" role="tabpanel" aria-describedby="slick-slide-control07" data-slick-index="15" aria-hidden="true">
-					              <!-- Image with anchor link -->
-					              <div class="imgprev">
-					                <a href="#" tabindex="-1">
-					                  <img src="http://www.alumrockstudio.com/private_files/KT-Electronics-new-employee-uniform/4M2A9267.jpg" alt="" title="" class="img-fluid">
-					                </a>
-					              </div>
-
-					              <!-- Details -->
-					              <div class="details">
-					                <!-- Title -->
-					                <h4 class="white" data-role="title">
-					                  MEO MEO
-					                </h4> Stress Therapist
-					              </div>
-					              <!--/ .details -->
-					            </div></div></div><ul class="slick-dots" style="" role="tablist"><li class="" role="presentation"><button type="button" class="slickBtn" data-role="none" role="tab" tabindex="-1" id="slick-slide-control00" aria-controls="slick-slide00" aria-label="1 of 3">1</button></li><li role="presentation"><button type="button" class="slickBtn" data-role="none" role="tab" tabindex="-1" id="slick-slide-control01" aria-controls="slick-slide01" aria-label="2 of 3">2</button></li><li role="presentation"><button type="button" class="slickBtn" data-role="none" role="tab" tabindex="-1" id="slick-slide-control02" aria-controls="slick-slide02" aria-label="3 of 3">3</button></li><li role="presentation"><button type="button" class="slickBtn" data-role="none" role="tab" tabindex="-1" id="slick-slide-control03" aria-controls="slick-slide03" aria-label="4 of 3">4</button></li><li class="" role="presentation"><button type="button" class="slickBtn" data-role="none" role="tab" tabindex="-1" id="slick-slide-control04" aria-controls="slick-slide04" aria-label="5 of 3">5</button></li><li role="presentation" class=""><button type="button" class="slickBtn" data-role="none" role="tab" tabindex="-1" id="slick-slide-control05" aria-controls="slick-slide05" aria-label="6 of 3">6</button></li><li role="presentation" class="slick-active"><button type="button" class="slickBtn" data-role="none" role="tab" tabindex="0" id="slick-slide-control06" aria-controls="slick-slide06" aria-label="7 of 3" aria-selected="true">7</button></li><li role="presentation"><button type="button" class="slickBtn" data-role="none" role="tab" tabindex="-1" id="slick-slide-control07" aria-controls="slick-slide07" aria-label="8 of 3">8</button></li></ul></div>
-					          <!--/ .image-boxes__carousel .js-slick -->
-					        </div>
-					        <!-- / .image-boxes__carousel-wrapper -->
-					      </div>
-					      <!--/ col-sm-12 col-md-12 -->
-					    </div>
-					    <!--/ row -->
-					  </div>
-					  <!--/ container -->
-					</section>
 
 				</div>
 
