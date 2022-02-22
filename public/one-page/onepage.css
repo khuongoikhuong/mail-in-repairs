@@ -728,3 +728,9 @@ textarea.border-form-control {
 .pricing-table-element.dark-blue .plan-column .plan-title {color: #2c3e50;}
 .pricing-table-element.dark-blue .plan-column.featured .plan-title .inner-cell {color: #45474d;}
 .pricing-table-element.dark-blue {color: #999999 !important;}
+
+
+#gotoTop {
+	bottom: 80px !important;
+	right: 25px !important;
+}

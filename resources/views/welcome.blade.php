@@ -190,7 +190,7 @@
 							<p class="lead topmargin-sm mb-0" style="max-width:700px; line-height: 1.7;">Whether you are a student, own a business, or a small apple repair center, we offer fast and guaranteed repairs. We don't collect payment until your repair is successful. Just fill out a short form, then mail it to us with a tracking number, it's that simple.</p>
 						</div>
 						<a href="#" class="button button-dark button-circle button-large fw-light ms-0" data-scrollto="#section-we" data-easing="easeInOutExpo" data-speed="2600" data-offset="40"><i class="icon-user"></i>Who We Are</a>
-<a href="#" class="button button-dark button-circle button-large fw-light ms-0" data-scrollto="#section-process" data-easing="easeInOutExpo" data-speed="2600" data-offset="40"><i class="icon-envelope"></i>Mail-in How-To</a>
+            <a href="#" class="button button-dark button-circle button-large fw-light ms-0" data-scrollto="#section-process" data-easing="easeInOutExpo" data-speed="2600" data-offset="40"><i class="icon-envelope"></i>Mail-in How-To</a>
 						<a href="#" class="button button-dark button-circle button-large fw-light" data-scrollto="#section-pricing" data-easing="easeInOutExpo" data-speed="2600" data-offset="40"><i class="icon-dollar"></i>Pricing</a>
 					</div>
 				</div>
@@ -306,7 +306,7 @@
 							                                    <li>
 							                                        <div class="inner-cell">
 							                                            <!-- Button -->
-							                                            <a href="mail-in-repair-order-form.php" target="_self" class="btn btn-fullcolor">Start</a>
+							                                            <a href="#" data-scrollto="#section-order" data-easing="easeInOutExpo" data-speed="2600" data-offset="40" data-ol-has-click-handler="" class="btn btn-fullcolor">Start</a>
 							                                            <!--/ Button -->
 							                                        </div>
 							                                    </li>
@@ -404,7 +404,7 @@
 							                                    <li>
 							                                        <div class="inner-cell">
 							                                            <!-- Button -->
-							                                            <a href="mail-in-repair-order-form.php" target="_self" class="btn btn-fullcolor">Start</a>
+							                                            <a href="#" data-scrollto="#section-order" data-easing="easeInOutExpo" data-speed="2600" data-offset="40" data-ol-has-click-handler="" class="btn btn-fullcolor">Start</a>
 							                                            <!--/ Button -->
 							                                        </div>
 							                                    </li>
@@ -502,7 +502,7 @@
 							                                    <li>
 							                                        <div class="inner-cell">
 							                                            <!-- Button -->
-							                                            <a href="mail-in-repair-order-form.php" target="_self" class="btn btn-fullcolor">Start</a>
+							                                            <a href="#" data-scrollto="#section-order" data-easing="easeInOutExpo" data-speed="2600" data-offset="40" data-ol-has-click-handler="" class="btn btn-fullcolor">Start</a>
 							                                            <!--/ Button -->
 							                                        </div>
 							                                    </li>
@@ -599,7 +599,7 @@
 							                                    <li>
 							                                        <div class="inner-cell">
 							                                            <!-- Button -->
-							                                            <a href="mail-in-repair-order-form.php" target="_self" class="btn btn-fullcolor">Start</a>
+							                                            <a href="#" data-scrollto="#section-order" data-easing="easeInOutExpo" data-speed="2600" data-offset="40" data-ol-has-click-handler="" class="btn btn-fullcolor">Start</a>
 							                                            <!--/ Button -->
 							                                        </div>
 							                                    </li>
@@ -727,7 +727,7 @@
 					                <!-- Title -->
 					                <h4 class="stp_title">
 					                  DOWNLOAD THE FORM
-<a href="#" data-scrollto="#section-order" data-easing="easeInOutExpo" data-speed="2600" data-offset="40" data-ol-has-click-handler="">HERE</a>
+                          <a href="#" data-scrollto="#section-order" data-easing="easeInOutExpo" data-speed="2600" data-offset="40" data-ol-has-click-handler="">HERE</a>
 
 					                </h4>
 					                <!--/ Title -->
@@ -846,32 +846,26 @@
 
 				<div id="section-order" class="page-section pt-0">
 
-
-								<section class="hg_section ptop-80 pbottom-80" style="margin-top: -100px;">
-
-
+								<section class="hg_section ptop-0 pbottom-0" style="margin: 1px 0 0 0 !important; padding: 1px 0 0 0 !important;">
 									<div class="content-wrap">
-													<div class="container clearfix">
+    							<div class="container clearfix">
+										<h1 style="margin-bottom: 0px;">Mail-In Repair Order Form</h1>
+										<h4 class="fs-30">Please fill out this form, attach it to your item, and <span data-rel="tooltip" data-placement="top" title="" data-animation="true" data-original-title="Pack carefully and ship with Tracking">mail</span> it to us. We will contact you once your item has been received and call you for payment after completion.</h4>
 
 														<div class="form-widget">
-
-															<div class="form-result"></div>
-
 															<div class="row shadow bg-light border">
 
 																<div class="col-lg-4 dark" style="background: linear-gradient(rgba(0,0,0,.8), rgba(0,0,0,.2)), url('/images/forms/form-background.png') center center / cover; min-height: 400px;">
-																	<h3 class="center mt-5">Mail To</h3>
-																	<div class="calories-wrap center w-100 px-2">
+																	<h3 class="left mt-5">Mail To:</h3>
+																	<div class="calories-wrap left w-100 px-2">
 																		<span class="text-uppercase mb-0 ls2">KT Electronics attn. Online Dept</span><br/><br/>
 																		<span class="text-uppercase h6 ls3">1640 Alum Rock Ave<br> San Jose, CA 95116</span><br/><br/>
 																		<span class="text-uppercase mb-0 ls2">408.258.8800</span><br/><br/>
 																		<span class="text-uppercase mb-0 ls2">408.837.1640 text</span><br/><br/>
-
-																		<span class="text-uppercase mb-0 ls2">408.837.1640 text</span><br/><br/>
 																		<span class="text-uppercase mb-0 ls2">
-            <a href="mailto:#">ktelectronicrepair@gmail.com</a><br>
-            <a href="">www.ktelectronicrepairs.com</a>
-          </span><br/><br/>
+            												<a href="mailto:#">ktelectronicrepair@gmail.com</a><br>
+            												<a href="">www.ktelectronicrepairs.com</a>
+          													</span><br/><br/>
 																	</div>
 																	<small class="center m-0 position-absolute" style="bottom: 12px;">&nbsp;</small>
 																</div>
@@ -889,14 +883,14 @@
 																					<label for="fitness-form-name">FIRSTNAME:</label>
 																				</div>
 																				<div class="col-sm-4">
-																					<input type="text" name="fitness-form-name" id="fitness-form-name" class="form-control required valid" value="" placeholder="Enter your Full Name">
+																					<input type="text" name="fitness-form-name" id="fitness-form-name" class="form-control required valid" value="" placeholder="Enter Your First Name">
 																				</div>
 
 																				<div class="col-sm-2 col-form-label">
 																					<label for="fitness-form-name">LASTNAME:</label>
 																				</div>
 																				<div class="col-sm-4">
-																					<input type="text" name="fitness-form-name" id="fitness-form-name" class="form-control required valid" value="" placeholder="Enter your Full Name">
+																					<input type="text" name="fitness-form-name" id="fitness-form-name" class="form-control required valid" value="" placeholder="Enter Your Last Name">
 																				</div>
 																			</div>
 																		</div>
@@ -906,7 +900,7 @@
 																					<label for="fitness-form-email">Email:</label>
 																				</div>
 																				<div class="col-sm-10">
-																					<input type="email" name="fitness-form-email" id="fitness-form-email" class="form-control required" value="" placeholder="Enter your Email">
+																					<input type="email" name="fitness-form-email" id="fitness-form-email" class="form-control required" value="" placeholder="Enter Your Email">
 																				</div>
 																			</div>
 																		</div>
@@ -916,7 +910,7 @@
 																					<label for="fitness-form-phone">Phone:</label>
 																				</div>
 																				<div class="col-sm-10">
-																					<input type="text" name="fitness-form-phone" id="fitness-form-phone" class="form-control required" value="" placeholder="Cell Phone is preferred">
+																					<input type="text" name="fitness-form-phone" id="fitness-form-phone" class="form-control required" value="" placeholder="Cell Phone Is preferred">
 																				</div>
 																			</div>
 																		</div>
@@ -926,7 +920,7 @@
 																					<label for="fitness-form-phone">System MODEL/SERIAL:</label>
 																				</div>
 																				<div class="col-sm-10">
-																					<input type="text" name="fitness-form-phone" id="fitness-form-phone" class="form-control required" value="" placeholder="Enter the Model & Serial number">
+																					<input type="text" name="fitness-form-phone" id="fitness-form-phone" class="form-control required" value="" placeholder="Enter The Model & Serial Number">
 																				</div>
 																			</div>
 																		</div>
