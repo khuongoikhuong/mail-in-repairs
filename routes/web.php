@@ -19,10 +19,24 @@ Route::get('/', function () {
 });
 */
 
-Route::get('/',[TodoListController::class, 'index']);
+//Route::get('/',[TodoListController::class, 'index']);
 
-Route::post('/saveItemRoute',[TodoListController::class, 'saveItem'])->name('saveItem');
+//Route::post('/saveItemRoute',[TodoListController::class, 'saveItem'])->name('saveItem');
+Route::get('/', function () {
+    return view('index');
+});
 
+Route::get('/macbook', function () {
+    return view('mail-in-macbook');
+});
+
+Route::get('/welcome', function () {
+    return view('welcome');
+});
+
+Route::get('/sample', function () {
+    return view('sample');
+});
 
 Route::get('/shipping-label.php', function () {
     return view('shipping-label');
