@@ -1,7 +1,7 @@
 <!-- Slider
    ============================================= -->
 <section id="slider" class="slider-element slider-parallax min-vh-100 include-header">
-   <div class="slider-inner" style="background-image: url('one-page/images/page/mackbook-slider.png'); background-color: #FFF;">
+   <div class="slider-inner" style="background-image: url('one-page/images/page/home-slider2.png'); background-color: #FFF;">
       <div class="vertical-middle slider-element-fade">
          <div class="container text-start py-5">
             <div class="emphasis-title bottommargin-sm">
