@@ -1,7 +1,7 @@
 @extends('layouts.master-page')
 
 @section('topnav')
-  @include('partials.nav.macbook-nav')
+  @include('partials.nav.home-nav')
 @endsection
 
 @section('slide')
