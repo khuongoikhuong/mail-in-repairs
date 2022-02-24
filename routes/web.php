@@ -30,6 +30,10 @@ Route::get('/macbook', function () {
     return view('mail-in-macbook');
 });
 
+Route::get('/ps5', function () {
+    return view('mail-in-ps5');
+});
+
 Route::get('/welcome', function () {
     return view('welcome');
 });
