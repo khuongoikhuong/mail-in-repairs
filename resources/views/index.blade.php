@@ -10,6 +10,7 @@
 
 @section('content')
   @include('partials.sections.home-macbook')
+  @include('partials.sections.home-ps5')  
   @include('partials.sections.who-we-are')
   @include('partials.sections.contact-us')
 @endsection

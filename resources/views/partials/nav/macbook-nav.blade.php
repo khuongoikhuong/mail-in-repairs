@@ -3,7 +3,7 @@
 <nav class="primary-menu">
    <ul class="one-page-menu menu-container" data-easing="easeInOutExpo" data-speed="2600" data-offset="41">
       <li class="menu-item">
-         <a href="#" class="menu-link" data-href="#wrapper">
+         <a href="/" class="menu-link">
             <div>Home</div>
          </a>
       </li>
